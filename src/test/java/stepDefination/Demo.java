@@ -16,5 +16,10 @@ public void Mul(){
 	
 	System.out.println("hi");
 }
+public void Div(){
+	
+	System.out.println("hi");
+}
+
 
 }
